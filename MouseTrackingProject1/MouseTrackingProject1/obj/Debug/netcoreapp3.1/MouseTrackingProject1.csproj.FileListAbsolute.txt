@@ -1,0 +1,11 @@
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\obj\Debug\netcoreapp3.1\MouseTrackingProject1.csprojAssemblyReference.cache
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\obj\Debug\netcoreapp3.1\MouseTrackingProject1.AssemblyInfoInputs.cache
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\obj\Debug\netcoreapp3.1\MouseTrackingProject1.AssemblyInfo.cs
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\bin\Debug\netcoreapp3.1\MouseTrackingProject1.exe
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\bin\Debug\netcoreapp3.1\MouseTrackingProject1.deps.json
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\bin\Debug\netcoreapp3.1\MouseTrackingProject1.runtimeconfig.json
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\bin\Debug\netcoreapp3.1\MouseTrackingProject1.runtimeconfig.dev.json
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\bin\Debug\netcoreapp3.1\MouseTrackingProject1.dll
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\bin\Debug\netcoreapp3.1\MouseTrackingProject1.pdb
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\obj\Debug\netcoreapp3.1\MouseTrackingProject1.dll
+D:\Faks\3. GODINA\PIIS\MouseTracking project\MouseTrackingProject1\MouseTrackingProject1\obj\Debug\netcoreapp3.1\MouseTrackingProject1.pdb
